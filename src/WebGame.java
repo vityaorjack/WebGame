@@ -3,9 +3,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.ServletException;
  
 import java.io.IOException;
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
-import java.util.Date;
+
 
 import org.eclipse.jetty.server.*;
 import org.eclipse.jetty.server.handler.*;
